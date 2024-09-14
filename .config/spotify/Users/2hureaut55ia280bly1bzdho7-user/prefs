@@ -1,0 +1,3 @@
+connect.dial_devices="[{\"address\":\"192.168.1.4\",\"app_state\":\"MISSING\",\"created_timestamp\":1725369731,\"device_id\":\"fce12884-9dc6-4476-8fc5-d383bfae122b\",\"dial_location_url\":\"http://192.168.1.4:7678/nservice/\",\"display_name\":\"[TV] Samsung 7 Series (55)\",\"last_seen\":1725376988,\"manufacturer\":\"Samsung Electronics\",\"model_name\":\"UA55RU7100KXXL\",\"product_cap\":\"Resolution:1920X1080,Tizen,Y2017\",\"public_ip\":\"2401:4900:1c5c:d65:48f4:3cbc:6a53:3f9a\",\"wol\":{\"all_interfaces\":false,\"delay_ms\":50,\"mac\":\"007c2d073470\",\"port\":9,\"retries\":400}}]"
+audio.play_bitrate_non_metered_migrated=true
+app.player.volume=45860
